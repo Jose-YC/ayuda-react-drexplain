@@ -1,5 +1,5 @@
 DR_EXPLAIN = DR_EXPLAIN || {};
 DR_EXPLAIN.searchIndex = DR_EXPLAIN.searchIndex || {};
-DR_EXPLAIN.searchIndex["\u0038"] = [
-	{ "s": "8", "p": [3] }
+DR_EXPLAIN.searchIndex["\u0030"] = [
+	{ "s": "0", "p": [1] }
 ];

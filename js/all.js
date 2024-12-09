@@ -1184,10 +1184,10 @@ InputSync.prototype ={
 DR_EXPLAIN.namespace( 'DR_EXPLAIN.data_menu' );
 DR_EXPLAIN.data_menu = {
     // menu
-    DREX_NODE_NAMES: ["Página principal","Manual de Usuario "],
-    DREX_NODE_LINKS: ["index.htm","user_interface.htm"],
-    DREX_NODE_CHILD_START: [1,2],
-    DREX_NODE_CHILD_END: [2,2],
+    DREX_NODE_NAMES: ["Página principal","Guia de usuario","Guía de Instalación","Modulo de Crear Productos","Modulo Crear Usuarios","Modulo Crear Rol","Modulo Crear Categoría","Modulo Crear Medida","Modulo Crear Orden de Compra","Modulo Realizar Venta","Modulo Crear Proveedor","Modulo Crear Cliente"],
+    DREX_NODE_LINKS: ["index.htm","overview.htm","getting_started.htm","release_notes.htm","system_requirements.htm","modulo_crear_rol.htm","modulo_crear_categoria.htm","modulo_crear_medida.htm","modulo_crear_orden_de_compra.htm","modulo_realizar_venta.htm","modulo_crear_proveedor.htm","modulo_crear_cliente.htm"],
+    DREX_NODE_CHILD_START: [1,3,12,12,12,12,12,12,12,12,12,12],
+    DREX_NODE_CHILD_END: [3,12,12,12,12,12,12,12,12,12,12,12],
     DREX_MENU_TYPE: 2,
     DREX_HAS_ROOT_NODE: 0};
 
